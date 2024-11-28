@@ -1,3 +1,3 @@
-- Wassup i am pixeler
-- Currently learning c++
-- I may publish something some time
+- Hey i am Pixeler
+- I have absolutely no idea what this thing does
+- But sure 
